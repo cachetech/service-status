@@ -3,29 +3,45 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: CacheTech
+    url: https://cachetech.com.au/
+  - name: CacheTech Billing
+    url: https://billing.cachetech.com.au/
+  - name: CacheTech Cloud
+    url: $CACHE_TECH_CLOUD_URL
+  - name: cache.bi Landing Page
+    url: https://cache.bi/
+  - name: cache.bi Portal
+    url: https://portal.cache.bi/
+  - name: cache.bi Portal API
+    url: https://portal.api.cache.bi/_health
+  - name: cache.bi Portal Data Service
+    url: https://data.api.cache.bi/_health
+  - name: cache.bi User Service
+    url: https://auth.cache.bi/
+  - name: CBTB Coffee House Shop
+    url: https://shop.cbtb.coffee
+  - name: CBTB Coffee House Cloud
+    url: $CBTB_COFFEE_HOUSE_CLOUD_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.cachetech.com.au
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  favicon: https://cachetech.com.au/wp-content/uploads/2021/02/cropped-logo-1-192x192.png
+  logoUrl: https://cachetech.com.au/wp-content/uploads/2021/02/cropped-bitmap-2048x216.png
+  robotsText: "User-agent: * \n Disallow: /"
+  name: CacheTech Status
+  introTitle: "Specialising in bringing low-cost enterprise solutions to small businesses in Adelaide and regional South Australia"
+  introMessage: "Specialising in bringing low-cost enterprise solutions to small businesses in Adelaide and regional South Australia. We run fully managed cloud servers allowing business owners modern cloud services for a fraction of the cost of mainstream corporate software such as _Microsoft_ (Office 365 and Exchange email environments), _Google_ (cloud office and email services), _Dropbox_ (cloud storage and file sharing)."
   navbar:
+    - title: CacheTech
+      href: https://cachetech.com.au/
+    - title: cache.bi
+      href: http://cache.bi/
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
