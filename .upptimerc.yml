@@ -19,8 +19,10 @@ sites:
     url: https://data.api.cache.bi/_health
   - name: cache.bi User Service
     url: https://auth.cache.bi/
+  - name: cache.bi Account Service
+    url: $CACHE_BI_ACCOUNT_SERVICE_URL
   - name: CBTB Coffee House Shop
-    url: https://shop.cbtb.coffee
+    url: https://shop.cbtb.coffee/
   - name: CBTB Coffee House Cloud
     url: $CBTB_COFFEE_HOUSE_CLOUD_URL
 
