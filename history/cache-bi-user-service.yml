@@ -1,7 +1,7 @@
 url: https://auth.cache.bi/
-status: down
-code: 502
-responseTime: 1581
-lastUpdated: 2021-12-11T02:58:18.941Z
+status: up
+code: 200
+responseTime: 1078
+lastUpdated: 2021-12-11T03:42:30.393Z
 startTime: Sat Jul 24 2021 05:40:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
