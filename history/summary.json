@@ -13,10 +13,11 @@
     "time": 957,
     "timeDay": 940,
     "timeWeek": 918,
-    "timeMonth": 989,
+    "timeMonth": 986,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2022-12-08": 1395,
+      "2022-12-09": 36,
+      "2022-12-08": 1440,
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
@@ -379,8 +380,7 @@
       "2021-12-13": 1440,
       "2021-12-12": 1440,
       "2021-12-11": 1440,
-      "2021-12-10": 1440,
-      "2021-12-09": 1440
+      "2021-12-10": 1440
     }
   },
   {
@@ -397,7 +397,7 @@
     "time": 1736,
     "timeDay": 2187,
     "timeWeek": 2141,
-    "timeMonth": 2033,
+    "timeMonth": 2024,
     "timeYear": 1789,
     "dailyMinutesDown": {
       "2022-10-15": 172,
@@ -424,7 +424,7 @@
     "time": 1506,
     "timeDay": 1036,
     "timeWeek": 991,
-    "timeMonth": 1282,
+    "timeMonth": 1288,
     "timeYear": 1645,
     "dailyMinutesDown": {
       "2022-10-14": 189,
@@ -450,7 +450,7 @@
     "time": 2572,
     "timeDay": 2806,
     "timeWeek": 2752,
-    "timeMonth": 2691,
+    "timeMonth": 2686,
     "timeYear": 2595,
     "dailyMinutesDown": {
       "2022-11-16": 18,
@@ -505,7 +505,7 @@
     "time": 803,
     "timeDay": 813,
     "timeWeek": 786,
-    "timeMonth": 790,
+    "timeMonth": 787,
     "timeYear": 777,
     "dailyMinutesDown": {
       "2022-11-16": 18,
@@ -534,7 +534,7 @@
     "time": 721,
     "timeDay": 791,
     "timeWeek": 792,
-    "timeMonth": 760,
+    "timeMonth": 754,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2022-11-16": 18,
@@ -588,7 +588,7 @@
     "time": 707,
     "timeDay": 1036,
     "timeWeek": 794,
-    "timeMonth": 759,
+    "timeMonth": 761,
     "timeYear": 718,
     "dailyMinutesDown": {
       "2022-11-16": 575,
@@ -621,9 +621,9 @@
     "uptimeMonth": "93.33%",
     "uptimeYear": "99.44%",
     "time": 1845,
-    "timeDay": 1722,
-    "timeWeek": 1783,
-    "timeMonth": 1759,
+    "timeDay": 1698,
+    "timeWeek": 1778,
+    "timeMonth": 1757,
     "timeYear": 1837,
     "dailyMinutesDown": {
       "2022-12-08": 88,
@@ -662,7 +662,7 @@
     "time": 922,
     "timeDay": 1225,
     "timeWeek": 1084,
-    "timeMonth": 1002,
+    "timeMonth": 982,
     "timeYear": 937,
     "dailyMinutesDown": {
       "2022-10-15": 172,
