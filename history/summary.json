@@ -16,7 +16,7 @@
     "timeMonth": 994,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2022-12-17": 959,
+      "2022-12-17": 1018,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
@@ -608,17 +608,17 @@
     "url": "https://shop.cbtb.coffee/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.cbtb.coffee.ico",
     "slug": "cbtb-coffee-house-shop",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "87.58%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "87.56%",
     "uptimeWeek": "94.16%",
-    "uptimeMonth": "94.00%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "99.50%",
     "time": 1840,
-    "timeDay": 1772,
-    "timeWeek": 1782,
-    "timeMonth": 1771,
-    "timeYear": 1831,
+    "timeDay": 1753,
+    "timeWeek": 1776,
+    "timeMonth": 1770,
+    "timeYear": 1830,
     "dailyMinutesDown": {
       "2022-12-17": 167,
       "2022-12-16": 61,
@@ -641,8 +641,7 @@
       "2022-11-28": 165,
       "2022-11-27": 119,
       "2022-11-26": 138,
-      "2022-11-25": 108,
-      "2022-11-24": 17
+      "2022-11-25": 108
     }
   },
   {
