@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cachetech.com.au.ico",
     "slug": "cache-tech",
     "status": "down",
-    "uptime": "24.28%",
+    "uptime": "24.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 875,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2023-01-29": 849,
+      "2023-01-29": 927,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -612,14 +612,14 @@
     "url": "https://shop.cbtb.coffee/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.cbtb.coffee.ico",
     "slug": "cbtb-coffee-house-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "88.05%",
-    "uptimeWeek": "83.48%",
-    "uptimeMonth": "92.20%",
+    "uptimeDay": "88.02%",
+    "uptimeWeek": "83.81%",
+    "uptimeMonth": "92.24%",
     "uptimeYear": "99.35%",
     "time": 1808,
-    "timeDay": 1828,
+    "timeDay": 1806,
     "timeWeek": 1732,
     "timeMonth": 1789,
     "timeYear": 1800,
@@ -637,7 +637,7 @@
       "2023-01-19": 334,
       "2023-01-18": 190,
       "2023-01-17": 253,
-      "2023-01-16": 236
+      "2023-01-16": 216
     }
   },
   {
