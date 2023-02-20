@@ -16,7 +16,8 @@
     "timeMonth": 874,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2023-02-19": 1415,
+      "2023-02-20": 40,
+      "2023-02-19": 1440,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
@@ -379,8 +380,7 @@
       "2022-02-24": 1440,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
-      "2022-02-21": 1440,
-      "2022-02-20": 1440
+      "2022-02-21": 1440
     }
   },
   {
@@ -416,7 +416,7 @@
     "slug": "cache-tech-cloud",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "56.45%",
+    "uptimeDay": "60.99%",
     "uptimeWeek": "80.16%",
     "uptimeMonth": "95.32%",
     "uptimeYear": "99.42%",
@@ -474,7 +474,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.cache.bi.ico",
     "slug": "cache-bi-portal",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
@@ -611,12 +611,12 @@
     "status": "up",
     "uptime": "99.63%",
     "uptimeDay": "86.12%",
-    "uptimeWeek": "84.40%",
+    "uptimeWeek": "84.82%",
     "uptimeMonth": "93.08%",
     "uptimeYear": "99.42%",
     "time": 1784,
     "timeDay": 1668,
-    "timeWeek": 1661,
+    "timeWeek": 1663,
     "timeMonth": 1714,
     "timeYear": 1776,
     "dailyMinutesDown": {
