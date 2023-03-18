@@ -1,7 +1,7 @@
 url: https://portal.cache.bi/
-status: down
-code: 502
-responseTime: 3997
-lastUpdated: 2023-03-18T06:26:03.164Z
+status: up
+code: 200
+responseTime: 848
+lastUpdated: 2023-03-18T09:33:22.852Z
 startTime: Sat Jul 24 2021 05:40:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
