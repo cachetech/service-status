@@ -16,7 +16,7 @@
     "timeMonth": 904,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2023-03-28": 832,
+      "2023-03-28": 896,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
@@ -617,17 +617,17 @@
     "url": "https://shop.cbtb.coffee/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.cbtb.coffee.ico",
     "slug": "cbtb-coffee-house-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "83.37%",
+    "uptimeDay": "83.34%",
     "uptimeWeek": "89.79%",
-    "uptimeMonth": "92.73%",
-    "uptimeYear": "99.39%",
+    "uptimeMonth": "92.77%",
+    "uptimeYear": "99.40%",
     "time": 1782,
-    "timeDay": 1734,
-    "timeWeek": 1867,
+    "timeDay": 1717,
+    "timeWeek": 1863,
     "timeMonth": 1776,
-    "timeYear": 1775,
+    "timeYear": 1774,
     "dailyMinutesDown": {
       "2023-03-28": 136,
       "2023-03-27": 210,
@@ -645,7 +645,7 @@
       "2023-03-15": 172,
       "2023-03-14": 248,
       "2023-03-13": 259,
-      "2023-03-12": 35
+      "2023-03-12": 18
     }
   },
   {
@@ -657,12 +657,12 @@
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.81%",
     "time": 951,
     "timeDay": 1040,
     "timeWeek": 1098,
-    "timeMonth": 1009,
+    "timeMonth": 1018,
     "timeYear": 968,
     "dailyMinutesDown": {
       "2023-03-09": 27,
