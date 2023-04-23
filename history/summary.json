@@ -16,7 +16,8 @@
     "timeMonth": 896,
     "timeYear": 922,
     "dailyMinutesDown": {
-      "2023-04-22": 1392,
+      "2023-04-23": 37,
+      "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
@@ -379,8 +380,7 @@
       "2022-04-27": 1440,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
-      "2022-04-24": 1440,
-      "2022-04-23": 1440
+      "2022-04-24": 1440
     }
   },
   {
@@ -398,7 +398,7 @@
     "timeDay": 1831,
     "timeWeek": 2210,
     "timeMonth": 2152,
-    "timeYear": 1963,
+    "timeYear": 1964,
     "dailyMinutesDown": {
       "2023-01-25": 54,
       "2022-10-15": 172,
@@ -415,18 +415,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cache-tech-cloud",
     "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "2.76%",
-    "uptimeWeek": "86.11%",
-    "uptimeMonth": "95.57%",
-    "uptimeYear": "99.03%",
+    "uptime": "99.35%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.26%",
+    "uptimeMonth": "95.38%",
+    "uptimeYear": "99.01%",
     "time": 1752,
-    "timeDay": 755,
+    "timeDay": 734,
     "timeWeek": 2521,
     "timeMonth": 3141,
     "timeYear": 1893,
     "dailyMinutesDown": {
-      "2023-04-22": 1392,
+      "2023-04-23": 37,
+      "2023-04-22": 1440,
       "2023-04-21": 8,
       "2023-04-01": 99,
       "2023-03-31": 441,
@@ -461,7 +462,7 @@
     "timeDay": 2106,
     "timeWeek": 2629,
     "timeMonth": 2638,
-    "timeYear": 2752,
+    "timeYear": 2753,
     "dailyMinutesDown": {
       "2023-03-19": 114,
       "2023-03-18": 1054,
@@ -570,7 +571,7 @@
     "timeDay": 683,
     "timeWeek": 758,
     "timeMonth": 791,
-    "timeYear": 768,
+    "timeYear": 767,
     "dailyMinutesDown": {
       "2023-03-18": 187,
       "2023-01-25": 78,
@@ -629,8 +630,8 @@
     "uptimeYear": "99.49%",
     "time": 1764,
     "timeDay": 1488,
-    "timeWeek": 1542,
-    "timeMonth": 1683,
+    "timeWeek": 1541,
+    "timeMonth": 1680,
     "timeYear": 1755,
     "dailyMinutesDown": {
       "2023-04-22": 186,
