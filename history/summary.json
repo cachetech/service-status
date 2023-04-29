@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cachetech.com.au.ico",
     "slug": "cache-tech",
     "status": "down",
-    "uptime": "20.91%",
+    "uptime": "20.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 869,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2023-04-28": 1431,
+      "2023-04-29": 33,
+      "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
       "2023-04-25": 1440,
@@ -379,8 +380,7 @@
       "2022-05-03": 1440,
       "2022-05-02": 1440,
       "2022-05-01": 1440,
-      "2022-04-30": 1440,
-      "2022-04-29": 1440
+      "2022-04-30": 1440
     }
   },
   {
@@ -417,12 +417,12 @@
     "status": "up",
     "uptime": "99.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.35%",
+    "uptimeWeek": "70.76%",
     "uptimeMonth": "91.94%",
     "uptimeYear": "98.73%",
     "time": 1768,
     "timeDay": 0,
-    "timeWeek": 2195,
+    "timeWeek": 2398,
     "timeMonth": 2586,
     "timeYear": 1912,
     "dailyMinutesDown": {
@@ -630,7 +630,7 @@
     "uptimeMonth": "93.54%",
     "uptimeYear": "99.46%",
     "time": 1756,
-    "timeDay": 1573,
+    "timeDay": 1559,
     "timeWeek": 1536,
     "timeMonth": 1641,
     "timeYear": 1748,
