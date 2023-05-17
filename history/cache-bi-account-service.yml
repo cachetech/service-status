@@ -1,7 +1,7 @@
 url: $CACHE_BI_ACCOUNT_SERVICE_URL
 status: up
 code: 200
-responseTime: 590
-lastUpdated: 2023-05-16T23:11:15.634Z
+responseTime: 4920
+lastUpdated: 2023-05-17T23:11:14.856Z
 startTime: Sat Jul 24 2021 05:59:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
