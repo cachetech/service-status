@@ -16,7 +16,7 @@
     "timeMonth": 898,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2023-06-17": 1392,
+      "2023-06-17": 1413,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
@@ -398,7 +398,7 @@
     "timeDay": 1819,
     "timeWeek": 2035,
     "timeMonth": 2008,
-    "timeYear": 2018,
+    "timeYear": 2019,
     "dailyMinutesDown": {
       "2023-01-25": 54,
       "2022-10-15": 172,
@@ -420,7 +420,7 @@
     "timeDay": 3087,
     "timeWeek": 2874,
     "timeMonth": 3056,
-    "timeYear": 2070,
+    "timeYear": 2074,
     "dailyMinutesDown": {
       "2023-06-13": 101,
       "2023-04-24": 100,
@@ -455,11 +455,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
-    "time": 2665,
+    "time": 2699,
     "timeDay": 2363,
     "timeWeek": 2539,
     "timeMonth": 2472,
-    "timeYear": 2742,
+    "timeYear": 2741,
     "dailyMinutesDown": {
       "2023-03-19": 114,
       "2023-03-18": 1054,
@@ -512,7 +512,7 @@
     "timeDay": 561,
     "timeWeek": 779,
     "timeMonth": 760,
-    "timeYear": 897,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2023-03-19": 351,
       "2023-03-18": 1053,
@@ -538,7 +538,7 @@
     "timeDay": 698,
     "timeWeek": 749,
     "timeMonth": 725,
-    "timeYear": 759,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2023-03-19": 338,
       "2023-03-18": 760,
@@ -590,7 +590,7 @@
     "timeDay": 559,
     "timeWeek": 734,
     "timeMonth": 698,
-    "timeYear": 814,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2023-03-19": 351,
       "2023-03-18": 1053,
@@ -613,16 +613,16 @@
     "url": "https://shop.cbtb.coffee/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.cbtb.coffee.ico",
     "slug": "cbtb-coffee-house-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "84.87%",
-    "uptimeWeek": "88.72%",
-    "uptimeMonth": "92.75%",
+    "uptimeDay": "84.84%",
+    "uptimeWeek": "88.71%",
+    "uptimeMonth": "92.79%",
     "uptimeYear": "99.40%",
-    "time": 1724,
-    "timeDay": 1546,
-    "timeWeek": 1558,
-    "timeMonth": 1587,
+    "time": 1723,
+    "timeDay": 1523,
+    "timeWeek": 1555,
+    "timeMonth": 1586,
     "timeYear": 1715,
     "dailyMinutesDown": {
       "2023-06-17": 216,
@@ -645,7 +645,7 @@
       "2023-05-31": 178,
       "2023-05-30": 134,
       "2023-05-29": 225,
-      "2023-05-28": 129
+      "2023-05-28": 110
     }
   },
   {
@@ -663,7 +663,7 @@
     "timeDay": 798,
     "timeWeek": 978,
     "timeMonth": 999,
-    "timeYear": 993,
+    "timeYear": 994,
     "dailyMinutesDown": {
       "2023-03-09": 27,
       "2023-02-28": 24,
