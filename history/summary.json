@@ -16,7 +16,7 @@
     "timeMonth": 912,
     "timeYear": 917,
     "dailyMinutesDown": {
-      "2023-07-30": 1004,
+      "2023-07-30": 1124,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
@@ -415,12 +415,12 @@
     "slug": "cache-tech-cloud",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "55.10%",
+    "uptimeDay": "56.74%",
     "uptimeWeek": "93.59%",
     "uptimeMonth": "98.52%",
     "uptimeYear": "98.59%",
     "time": 2044,
-    "timeDay": 1716,
+    "timeDay": 1871,
     "timeWeek": 2293,
     "timeMonth": 2211,
     "timeYear": 2023,
@@ -623,15 +623,15 @@
     "url": "https://shop.cbtb.coffee/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.cbtb.coffee.ico",
     "slug": "cbtb-coffee-house-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "96.18%",
+    "uptimeDay": "97.42%",
     "uptimeWeek": "96.75%",
-    "uptimeMonth": "93.00%",
+    "uptimeMonth": "93.06%",
     "uptimeYear": "99.42%",
     "time": 1697,
-    "timeDay": 1589,
-    "timeWeek": 1559,
+    "timeDay": 1597,
+    "timeWeek": 1560,
     "timeMonth": 1537,
     "timeYear": 1692,
     "dailyMinutesDown": {
@@ -662,7 +662,7 @@
       "2023-07-05": 155,
       "2023-07-04": 333,
       "2023-07-03": 264,
-      "2023-07-02": 48
+      "2023-07-02": 22
     }
   },
   {
