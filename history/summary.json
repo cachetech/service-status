@@ -16,7 +16,7 @@
     "timeMonth": 1248,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2023-10-03": 270,
+      "2023-10-03": 609,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/billing.cachetech.com.au.ico",
     "slug": "cache-tech-billing",
     "status": "up",
-    "uptime": "98.54%",
+    "uptime": "98.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -634,15 +634,15 @@
     "url": "https://shop.cbtb.coffee/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.cbtb.coffee.ico",
     "slug": "cbtb-coffee-house-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "91.05%",
-    "uptimeWeek": "93.44%",
-    "uptimeMonth": "94.09%",
+    "uptimeDay": "93.01%",
+    "uptimeWeek": "93.89%",
+    "uptimeMonth": "94.16%",
     "uptimeYear": "99.51%",
     "time": 1668,
-    "timeDay": 1582,
-    "timeWeek": 1540,
+    "timeDay": 1553,
+    "timeWeek": 1535,
     "timeMonth": 1525,
     "timeYear": 1659,
     "dailyMinutesDown": {
@@ -673,7 +673,7 @@
       "2023-09-08": 210,
       "2023-09-07": 94,
       "2023-09-06": 19,
-      "2023-09-05": 109
+      "2023-09-05": 77
     }
   },
   {
