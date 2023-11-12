@@ -13,10 +13,11 @@
     "time": 1124,
     "timeDay": 4708,
     "timeWeek": 4477,
-    "timeMonth": 3668,
-    "timeYear": 1194,
+    "timeMonth": 3639,
+    "timeYear": 1196,
     "dailyMinutesDown": {
-      "2023-11-11": 1391,
+      "2023-11-12": 35,
+      "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
@@ -379,8 +380,7 @@
       "2022-11-16": 1440,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
-      "2022-11-13": 1440,
-      "2022-11-12": 1440
+      "2022-11-13": 1440
     }
   },
   {
@@ -397,8 +397,8 @@
     "time": 2207,
     "timeDay": 5930,
     "timeWeek": 4419,
-    "timeMonth": 3716,
-    "timeYear": 2257,
+    "timeMonth": 3774,
+    "timeYear": 2259,
     "dailyMinutesDown": {
       "2023-09-20": 26,
       "2023-07-19": 24,
@@ -414,15 +414,15 @@
     "slug": "cache-tech-cloud",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "94.76%",
+    "uptimeDay": "99.65%",
     "uptimeWeek": "98.64%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "98.42%",
     "time": 2238,
-    "timeDay": 2064,
+    "timeDay": 2635,
     "timeWeek": 3815,
-    "timeMonth": 3526,
-    "timeYear": 2455,
+    "timeMonth": 3594,
+    "timeYear": 2460,
     "dailyMinutesDown": {
       "2023-11-11": 40,
       "2023-11-10": 98,
@@ -465,8 +465,8 @@
     "time": 2720,
     "timeDay": 2597,
     "timeWeek": 2585,
-    "timeMonth": 2729,
-    "timeYear": 2720,
+    "timeMonth": 2738,
+    "timeYear": 2721,
     "dailyMinutesDown": {
       "2023-09-20": 26,
       "2023-07-19": 24,
@@ -518,8 +518,8 @@
     "time": 888,
     "timeDay": 1014,
     "timeWeek": 1193,
-    "timeMonth": 980,
-    "timeYear": 911,
+    "timeMonth": 991,
+    "timeYear": 912,
     "dailyMinutesDown": {
       "2023-11-09": 150,
       "2023-09-20": 25,
@@ -545,8 +545,8 @@
     "time": 757,
     "timeDay": 807,
     "timeWeek": 755,
-    "timeMonth": 723,
-    "timeYear": 757,
+    "timeMonth": 727,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2023-09-20": 24,
       "2023-07-19": 22,
@@ -571,8 +571,8 @@
     "time": 775,
     "timeDay": 786,
     "timeWeek": 795,
-    "timeMonth": 833,
-    "timeYear": 783,
+    "timeMonth": 840,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2023-11-09": 26,
       "2023-09-20": 24,
@@ -594,11 +594,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "98.48%",
+    "uptimeYear": "98.50%",
     "time": 838,
     "timeDay": 796,
     "timeWeek": 3016,
-    "timeMonth": 1272,
+    "timeMonth": 1288,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2023-11-09": 25,
@@ -612,8 +612,7 @@
       "2022-11-16": 575,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
-      "2022-11-13": 1440,
-      "2022-11-12": 1440
+      "2022-11-13": 1440
     }
   },
   {
@@ -623,13 +622,13 @@
     "slug": "cbtb-coffee-house-shop",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "91.24%",
-    "uptimeWeek": "87.93%",
+    "uptimeDay": "91.25%",
+    "uptimeWeek": "88.18%",
     "uptimeMonth": "93.35%",
     "uptimeYear": "99.45%",
     "time": 1646,
     "timeDay": 1400,
-    "timeWeek": 1457,
+    "timeWeek": 1459,
     "timeMonth": 1494,
     "timeYear": 1642,
     "dailyMinutesDown": {
@@ -672,7 +671,7 @@
     "timeDay": 1218,
     "timeWeek": 1054,
     "timeMonth": 994,
-    "timeYear": 1009,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2023-09-20": 23,
       "2023-07-19": 21,
