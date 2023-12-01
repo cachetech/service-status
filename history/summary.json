@@ -8,15 +8,16 @@
     "uptime": "15.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1178,
     "timeDay": 4475,
     "timeWeek": 2089,
-    "timeMonth": 2666,
+    "timeMonth": 2581,
     "timeYear": 1262,
     "dailyMinutesDown": {
-      "2023-11-30": 1413,
+      "2023-12-01": 36,
+      "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
@@ -379,8 +380,7 @@
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
-      "2022-12-02": 1440,
-      "2022-12-01": 1440
+      "2022-12-02": 1440
     }
   },
   {
@@ -397,7 +397,7 @@
     "time": 2263,
     "timeDay": 1810,
     "timeWeek": 3391,
-    "timeMonth": 3370,
+    "timeMonth": 3400,
     "timeYear": 2332,
     "dailyMinutesDown": {
       "2023-11-13": 136,
@@ -422,7 +422,7 @@
     "time": 2263,
     "timeDay": 710,
     "timeWeek": 1212,
-    "timeMonth": 3065,
+    "timeMonth": 3005,
     "timeYear": 2512,
     "dailyMinutesDown": {
       "2023-11-11": 40,
@@ -466,7 +466,7 @@
     "time": 2667,
     "timeDay": 1374,
     "timeWeek": 1694,
-    "timeMonth": 2126,
+    "timeMonth": 2109,
     "timeYear": 2677,
     "dailyMinutesDown": {
       "2023-11-13": 136,
@@ -494,7 +494,7 @@
     "time": 814,
     "timeDay": 807,
     "timeWeek": 778,
-    "timeMonth": 790,
+    "timeMonth": 789,
     "timeYear": 820,
     "dailyMinutesDown": {
       "2023-11-13": 135,
@@ -520,7 +520,7 @@
     "time": 893,
     "timeDay": 809,
     "timeWeek": 835,
-    "timeMonth": 950,
+    "timeMonth": 954,
     "timeYear": 917,
     "dailyMinutesDown": {
       "2023-11-13": 135,
@@ -547,7 +547,7 @@
     "time": 757,
     "timeDay": 648,
     "timeWeek": 749,
-    "timeMonth": 777,
+    "timeMonth": 779,
     "timeYear": 760,
     "dailyMinutesDown": {
       "2023-11-13": 134,
@@ -573,7 +573,7 @@
     "time": 775,
     "timeDay": 652,
     "timeWeek": 691,
-    "timeMonth": 769,
+    "timeMonth": 762,
     "timeYear": 779,
     "dailyMinutesDown": {
       "2023-11-13": 134,
@@ -600,7 +600,7 @@
     "time": 837,
     "timeDay": 508,
     "timeWeek": 661,
-    "timeMonth": 1304,
+    "timeMonth": 1314,
     "timeYear": 864,
     "dailyMinutesDown": {
       "2023-11-13": 133,
@@ -621,17 +621,17 @@
     "slug": "cbtb-coffee-house-shop",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "93.38%",
-    "uptimeWeek": "91.93%",
-    "uptimeMonth": "93.77%",
+    "uptimeDay": "94.32%",
+    "uptimeWeek": "92.06%",
+    "uptimeMonth": "93.76%",
     "uptimeYear": "99.48%",
     "time": 1634,
     "timeDay": 1592,
     "timeWeek": 1533,
-    "timeMonth": 1501,
+    "timeMonth": 1505,
     "timeYear": 1631,
     "dailyMinutesDown": {
-      "2023-11-30": 96,
+      "2023-11-30": 82,
       "2023-11-29": 141,
       "2023-11-28": 131,
       "2023-11-27": 83,
@@ -651,7 +651,7 @@
       "2023-11-13": 57,
       "2023-11-12": 101,
       "2023-11-11": 126,
-      "2023-11-10": 56
+      "2023-11-10": 73
     }
   },
   {
@@ -668,7 +668,7 @@
     "time": 1006,
     "timeDay": 747,
     "timeWeek": 1073,
-    "timeMonth": 1049,
+    "timeMonth": 1044,
     "timeYear": 1015,
     "dailyMinutesDown": {
       "2023-11-13": 122,
