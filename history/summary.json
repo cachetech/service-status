@@ -14,9 +14,10 @@
     "timeDay": 848,
     "timeWeek": 878,
     "timeMonth": 1882,
-    "timeYear": 1424,
+    "timeYear": 1426,
     "dailyMinutesDown": {
-      "2024-01-16": 1392,
+      "2024-01-17": 34,
+      "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -379,8 +380,7 @@
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
-      "2023-01-18": 1440,
-      "2023-01-17": 1440
+      "2023-01-18": 1440
     }
   },
   {
@@ -398,7 +398,7 @@
     "timeDay": 1775,
     "timeWeek": 1801,
     "timeMonth": 2522,
-    "timeYear": 2434,
+    "timeYear": 2435,
     "dailyMinutesDown": {
       "2023-12-11": 146,
       "2023-11-13": 136,
@@ -424,7 +424,7 @@
     "timeDay": 1560,
     "timeWeek": 2721,
     "timeMonth": 3475,
-    "timeYear": 2827,
+    "timeYear": 2831,
     "dailyMinutesDown": {
       "2023-12-12": 107,
       "2023-11-11": 40,
@@ -466,7 +466,7 @@
     "timeDay": 1568,
     "timeWeek": 1571,
     "timeMonth": 1643,
-    "timeYear": 2445,
+    "timeYear": 2446,
     "dailyMinutesDown": {
       "2024-01-09": 19,
       "2024-01-02": 126,
@@ -497,7 +497,7 @@
     "timeDay": 640,
     "timeWeek": 708,
     "timeMonth": 1360,
-    "timeYear": 855,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2024-01-02": 126,
       "2024-01-01": 1440,
@@ -597,7 +597,7 @@
     "timeDay": 498,
     "timeWeek": 642,
     "timeMonth": 742,
-    "timeYear": 762,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2023-12-11": 131,
       "2023-11-13": 134,
@@ -623,7 +623,7 @@
     "timeDay": 508,
     "timeWeek": 659,
     "timeMonth": 848,
-    "timeYear": 857,
+    "timeYear": 858,
     "dailyMinutesDown": {
       "2024-01-02": 48,
       "2023-12-11": 131,
@@ -643,15 +643,15 @@
     "slug": "cbtb-coffee-house-shop",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "82.55%",
+    "uptimeDay": "85.82%",
     "uptimeWeek": "88.96%",
     "uptimeMonth": "93.81%",
     "uptimeYear": "99.48%",
     "time": 1596,
-    "timeDay": 1488,
-    "timeWeek": 1513,
+    "timeDay": 1510,
+    "timeWeek": 1515,
     "timeMonth": 1525,
-    "timeYear": 1594,
+    "timeYear": 1593,
     "dailyMinutesDown": {
       "2024-01-16": 239,
       "2024-01-15": 96,
