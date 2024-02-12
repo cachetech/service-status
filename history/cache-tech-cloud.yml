@@ -1,7 +1,7 @@
 url: $CACHE_TECH_CLOUD_URL
-status: down
-code: 500
-responseTime: 716
-lastUpdated: 2024-02-12T05:32:07.073Z
+status: up
+code: 200
+responseTime: 1019
+lastUpdated: 2024-02-12T07:07:56.253Z
 startTime: 2021-07-24T05:40:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
