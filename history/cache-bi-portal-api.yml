@@ -1,7 +1,7 @@
 url: https://portal.api.cache.bi/_health
-status: up
-code: 200
-responseTime: 962
-lastUpdated: 2024-03-02T23:11:37.094Z
+status: down
+code: 502
+responseTime: 815
+lastUpdated: 2024-03-03T13:32:50.991Z
 startTime: 2021-07-24T05:40:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
